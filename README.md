@@ -1,26 +1,13 @@
 <h1 align="center">
 Xmodel_VLM: A Simple Baseline for Multimodal Vision Language Model
-</h1>
-
-<h5 align="center">
-
-[![hf_space](https://img.shields.io/badge/🤗-Xiaoduo%20HuggingFace-blue.svg)](https://huggingface.co/XiaoduoAILab/Xmodel_VLM)
-[![arXiv](https://img.shields.io/badge/Arxiv-2405.09215-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.09215) 
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/XiaoduoAILab/XmodelVLM.git)[![github](https://img.shields.io/github/stars/XiaoduoAILab/XmodelVLM.svg?style=social)](https://github.com/XiaoduoAILab/XmodelVLM.git)  
-
-
-</h5>
-
-
-
+</h1
 
 
 ## 🛠️ Install
 
 1. Clone this repository and navigate to XmodelVLM folder
    ```bash
-   git clone https://github.com/XiaoduoAILab/XmodelVLM.git
+   git clone https://github.com/edujbarrios/XmodelVLM/
    cd xmodelvlm
    ```
 
@@ -110,17 +97,3 @@ bash scripts/pretrain.sh 0,1,2,3  #GPU:0,1,2,3
 - [LLaVA](https://github.com/haotian-liu/LLaVA): Thanks for their wonderful work! 👏
 - [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM): Thanks for their wonderful work! 👏
   
-## ✏️ Reference
-
-If you find Xmodel_VLM useful in your research or applications, please consider giving a star ⭐ and citing using the following BibTeX:
-
-```
-@misc{xu2024xmodelvlm,
-      title={Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model}, 
-      author={Wanting Xu and Yang Liu and Langping He and Xucheng Huang and Ling Jiang},
-      year={2024},
-      eprint={2405.09215},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
