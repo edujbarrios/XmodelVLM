@@ -1,7 +1,10 @@
-<h1 align="center">
-Xmodel_VLM: A Simple Baseline for Multimodal Vision Language Model
-</h1
+# Xmodel_VLM: Adaptation for improved and supervised Fine Tuning
 
+*by Eduardo J. Barrios*
+> [!NOTE]
+> *****All the original X_modelVLM material corresponds to the original authors AND all the credits belong to them.*****
+>
+> *****This adaptation has only be made for specific research and academic porpuses.*****
 
 ## 🛠️ Install
 
